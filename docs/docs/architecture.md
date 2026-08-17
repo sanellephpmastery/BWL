@@ -98,15 +98,7 @@ Responsibilities:
 
 # System Flow
 
-User
-↓
-React Frontend
-↓
-Django Backend
-↓
-Python AI/Data Services
-↓
-Engine and Custom Tools
+User ↓ React Frontend ↓ Django Backend ↓ Python AI/Data Services ↓ BWL Core Runtime and Tools
 
 ---
 
