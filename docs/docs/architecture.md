@@ -79,17 +79,19 @@ Responsibilities:
 
 ---
 
-# 4. Engine and Tooling Layer
+# 4. Core Runtime and Tooling Layer
 
 Purpose:
 
-This layer contains custom tools and advanced systems that expand the platform capabilities.
+This layer contains the core systems and developer tools that power the BWL platform.
 
 Responsibilities:
 
+- Application runtime
+- Module system
+- Plugin architecture
 - Custom development tools
-- Simulation features
-- Visualization engine
+- Visualization systems
 - Extension modules
 
 ---
